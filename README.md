@@ -1,3 +1,5 @@
+![My_Banner](https://github.com/jankarl-web/jankarl-web/blob/main/peace.png)
+
 # Hi, I'm Jan Karl Borcelas
 
 I am an IT Student with a passion for bringing creative visions to life through code. My focus is on Frontend Development, where I specialize in building sleek, responsive static sites using HTML5, CSS3, and JavaScript. I love the process of turning a design concept into a functional digital experience, ensuring every pixel is in its place. I'm constantly refining my eye for design and my technical skills to create web interfaces that are as intuitive as they are beautiful.
