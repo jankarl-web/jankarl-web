@@ -1,5 +1,5 @@
 ![My_Banner](https://github.com/jankarl-web/jankarl-web/blob/main/peace.png)
-**Banner Art by:** [humus](https://x.com/h_u_m_u_s)
+**Banner Art:** Source unknown. If you know the artist, please let me know so I can give proper credit!
 
 <br>
 
